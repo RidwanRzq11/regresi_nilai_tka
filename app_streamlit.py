@@ -28,4 +28,5 @@ if st.button("Prediksi Nilai TKA", type="primary"):
     st.balloons()
 
 st.divider()
-st.caption("Dibuat dengan 📘 oleh *RPL ❤*")
+
+st.caption("Dibuat dengan 📘 oleh *WanMan ❤*")
